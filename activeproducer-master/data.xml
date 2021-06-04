@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<controlador num="1245">
+    <pais>57</pais>
+    <departamento>12</departamento>
+    <ciudad>45</ciudad>
+    <cruces>
+        <cruce num="245">
+            <estructuras>
+                <estructura num="1">
+                    <planes>
+                        <plan num="1">
+                            <duracion>70</duracion>
+                            <cnx>6</cnx>
+                            <sync>13</sync>
+                            <grupos>
+                                <grupo num="1">
+                                    <iniRA>10</iniRA>
+                                    <iniVerde>12</iniVerde>
+                                    <finVerde>30</finVerde>
+                                    <finA>33</finA>
+                                </grupo>
+                                <grupo num="2">
+                                    <iniRA>34</iniRA> 
+                                    <iniVerde>36</iniVerde>
+                                    <finVerde>48</finVerde>
+                                    <finA>51</finA>
+                                </grupo>
+                                <grupo num="3">
+                                    <iniRA>52</iniRA>
+                                    <iniVerde>54</iniVerde>
+                                    <finVerde>7</finVerde>
+                                    <finA>9</finA>
+                                </grupo>
+                                <grupo num="4">
+                                    <iniRA>10</iniRA>
+                                    <iniVerde>12</iniVerde>
+                                    <finVerde>48</finVerde>
+                                    <finA>51</finA>
+                                </grupo>
+                            </grupos>
+                        </plan>
+                    </planes>
+                </estructura>
+            </estructuras>
+        </cruce>
+        <cruce num="246">
+            <estructuras>
+                <estructura num="1">
+                    
+                </estructura>
+            </estructuras>   
+        </cruce>
+    </cruces>
+</controlador>
